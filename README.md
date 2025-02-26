@@ -69,4 +69,4 @@ Activity Logging: Keeping a log of user activities will help in auditing and ide
 ![Image](https://github.com/user-attachments/assets/4d8979eb-c207-4667-adbd-9de03c63cde5)
 
 
-OUTPUT:
+OUTPUT: ![Image](https://github.com/user-attachments/assets/91df3af8-68f0-40d9-b67f-2af74f1a061c)
