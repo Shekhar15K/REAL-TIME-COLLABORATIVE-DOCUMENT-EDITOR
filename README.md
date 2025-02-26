@@ -66,5 +66,31 @@ Data Encryption: All communications and stored data will be encrypted to prevent
 
 Activity Logging: Keeping a log of user activities will help in auditing and identifying any potential security issues or unauthorized access attempts.
 
+real-time-collaborative-editor/
+├── backend/
+│   ├── controllers/
+│   │   └── documentController.js
+│   ├── models/
+│   │   └── documentModel.js
+│   ├── routes/
+│   │   └── documentRoutes.js
+│   ├── server.js
+│   ├── .env
+│   └── package.json
+│
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── DocumentEditor.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── .env
+│   ├── package.json
+│
+└── README.md
+
+
 
 OUTPUT:
